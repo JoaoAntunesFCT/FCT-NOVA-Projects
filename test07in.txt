@@ -1,0 +1,50 @@
+5 5
+0 5 0 5 0
+5 0 5 0 5
+4 4 2 0 0
+0 0 2 4 4
+1 1 1 1 1
+1
+15
+terreno
+escavacao 1 2 Team 15 7
+terreno
+escavacao 2 1 Team 15 7
+terreno
+escavacao 3 1 Team 15 7
+terreno
+escavacao 5 1 Team 15 7
+terreno
+escavacao 5 5 Team 15 7
+terreno
+escavacao 4 5 Team 15 7
+terreno
+escavacao 0 5 Team 15 7
+terreno
+escavacao 0 1 Team 15 7
+terreno
+escavacao -1 1 Team 15 7
+terreno
+escavacao -2 1 Team 15 7
+terreno
+escavacao 0 1 Team 15 7
+terreno
+escavacao 0 -1 Team 15 7
+terreno
+escavacao 1 1 Team 15 7
+terreno
+escavacao 0 0 Team 15 7
+terreno
+escavacao 0 -1 Team 15 7
+terreno
+escavacao 3 3 Team 15 7
+terreno
+escavacao 1 -2 Team 15 7
+terreno
+escavacao 1 1 Team 15 7
+terreno
+escavacao -5 1 Team 15 7
+terreno
+escavacao 5 5 Team 15 7
+terreno
+sair
