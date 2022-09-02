@@ -1,0 +1,2 @@
+
+Algorithm and Data Structure was my second course dealing with the C language. This time, the purpose of the course was to develop data structures in order to make code more efficient, malleable and succinct.
