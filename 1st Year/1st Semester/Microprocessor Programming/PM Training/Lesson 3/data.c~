@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main()
+{
+	unsigned int ano1=0, mes1=0, dia1=0;
+	unsigned int ano2=0, mes2=0, dia2=0;
+
+	printf("Escreva para a data1 o dia, mês e ano como inteiros: ");
+	scanf(" %d %d %d", &dia1, &mes1, &ano1);
+	printf("Escreva para a data2 o dia, mês e ano como inteiros: "); 
+        scanf(" %d %d %d", &dia2, &mes2, &ano2);
+	{
+	if(ano1<ano2)
+		printf("A data2 é mais recente que a data1.");
+	else()
+		{
+		if(mes1<mes2)
+			printf("A data2 é mais recente que a data1.");
+		else()
+			{
+			if(dia1<dia2)
+				printf("A data2 é mais recente que a data1.");
+			else(dia1=dia2)
+				printf("As datas são iguais.");
+			}
+		} 
+ 	}
+ 
+}
