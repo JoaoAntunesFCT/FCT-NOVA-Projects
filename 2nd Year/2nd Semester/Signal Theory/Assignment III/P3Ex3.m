@@ -1,0 +1,1 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%João Antunes nº62709 LEEC%Exercise II - (b)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% x(t) functiont = 0.001;timedomain = 0:t:(9/5)*pi;x1 = 2.*sin(3*timedomain).*sin(3*timedomain)+2;plot(timedomain,x1)axis([0   (9/5)*pi   -1.1   1.1])
